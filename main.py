@@ -63,4 +63,4 @@ page = st.sidebar.radio("Pages", list(Tabs.keys()))
 
 Tabs[page].app()
 
-st.sidebar.info("Made by : MAINAK CHAUDHURI")
+st.sidebar.info("Made by : [MAINAK CHAUDHURI](https://www.linkedin.com/in/mainak-chaudhuri-127898176/)")
