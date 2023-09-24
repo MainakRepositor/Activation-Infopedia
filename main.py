@@ -29,7 +29,7 @@ streamlit_marquee(**{
     # the marquee container line height
     'lineHeight': "35px",
     # the marquee duration
-    'animationDuration': '10s',
+    'animationDuration': '50s',
 })
 
 
