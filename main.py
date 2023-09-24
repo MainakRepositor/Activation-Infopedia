@@ -23,7 +23,7 @@ streamlit_marquee(**{
     # the marquee text color
     "color": "cyan",
     # the marquee text content
-    'content': 'In this app you can learn about all types of activation functions, go through their formulae and codes, play with the graphs and learn to implement your own Deep Learning Algorithm',
+    'content': 'In this app you can learn about all types of activation functions, go through their formulae and codes, play with the graphs and learn to implement your own Deep Learning model',
     # the marquee container width
     'width': '1000px',
     # the marquee container line height
