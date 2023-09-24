@@ -4,6 +4,6 @@ pandas
 matplotlib
 seaborn
 scikit-learn
-streamlit_marquee
+streamlit-marquee
 pillow
-streamlit_option_menu
+streamlit-option-menu
