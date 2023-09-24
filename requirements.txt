@@ -213,9 +213,6 @@ python-dotenv==1.0.0
 python-json-logger==2.0.7
 pytz==2023.3
 pytz-deprecation-shim==0.1.0.post0
-pywin32==306
-pywin32-ctypes==0.2.0
-pywinpty==2.0.11
 PyYAML==6.0.1
 pyzmq==24.0.1
 qiskit==0.42.1
