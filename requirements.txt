@@ -6,4 +6,4 @@ seaborn
 scikit-learn
 streamlit_marquee
 pillow
-
+streamlit_option_menu
